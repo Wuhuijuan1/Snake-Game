@@ -1,0 +1,6 @@
+framework module Pods_Snake_SnakeUITests {
+  umbrella header "Pods-Snake-SnakeUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
