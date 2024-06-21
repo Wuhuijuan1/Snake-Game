@@ -24,6 +24,7 @@ class GameVC: UIViewController {
     }
     
     func setupUI() {
+        foodView.backgroundColor = .lightGray.withAlphaComponent(0.6)
         view.addSubview(foodView)
         foodView.snp.makeConstraints { make in
             make.edges.equalTo(view.safeAreaLayoutGuide)

@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		1848C31029EFDD7000590073 /* FoodPieceModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1848C30F29EFDD7000590073 /* FoodPieceModel.swift */; };
 		1848C31229EFDE9900590073 /* FoodModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1848C31129EFDE9900590073 /* FoodModel.swift */; };
+		185ECAF32C21662F00FF4A80 /* HomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185ECAF22C21662F00FF4A80 /* HomeVC.swift */; };
 		187730F529EF818C00A3A876 /* RxObservable+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 187730F429EF818C00A3A876 /* RxObservable+Extension.swift */; };
 		188802C229F0E822004728D9 /* GameVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188802C129F0E822004728D9 /* GameVC.swift */; };
 		18A6F97929EE3F6D00EEAC80 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A6F97829EE3F6D00EEAC80 /* AppDelegate.swift */; };
@@ -50,6 +51,7 @@
 /* Begin PBXFileReference section */
 		1848C30F29EFDD7000590073 /* FoodPieceModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodPieceModel.swift; sourceTree = "<group>"; };
 		1848C31129EFDE9900590073 /* FoodModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodModel.swift; sourceTree = "<group>"; };
+		185ECAF22C21662F00FF4A80 /* HomeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeVC.swift; sourceTree = "<group>"; };
 		187730F429EF818C00A3A876 /* RxObservable+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "RxObservable+Extension.swift"; sourceTree = "<group>"; };
 		188802C129F0E822004728D9 /* GameVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameVC.swift; sourceTree = "<group>"; };
 		18A6F97529EE3F6D00EEAC80 /* Snake.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Snake.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -161,6 +163,7 @@
 				18A6F97829EE3F6D00EEAC80 /* AppDelegate.swift */,
 				18A6F97A29EE3F6D00EEAC80 /* SceneDelegate.swift */,
 				188802C129F0E822004728D9 /* GameVC.swift */,
+				185ECAF22C21662F00FF4A80 /* HomeVC.swift */,
 				18A6F97E29EE3F6D00EEAC80 /* Main.storyboard */,
 				18A6F98129EE3F7000EEAC80 /* Assets.xcassets */,
 				18A6F98329EE3F7000EEAC80 /* LaunchScreen.storyboard */,
@@ -450,6 +453,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				18A6F9B329EE876F00EEAC80 /* FoodView.swift in Sources */,
+				185ECAF32C21662F00FF4A80 /* HomeVC.swift in Sources */,
 				187730F529EF818C00A3A876 /* RxObservable+Extension.swift in Sources */,
 				1848C31229EFDE9900590073 /* FoodModel.swift in Sources */,
 				18A6F9AF29EE77C600EEAC80 /* SnakePieceModel.swift in Sources */,
